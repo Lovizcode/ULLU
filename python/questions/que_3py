@@ -1,0 +1,20 @@
+list = []
+
+for i in range(0,5):
+    list.append(int(input("Enter the NUmbers - ")))
+
+print(list)
+
+
+# a = list[0]
+# list[0] = list[len(list)-1]
+# list[len(list)-1] = a
+
+# b = list[1]
+# list[1] = list[len(list)-2]
+# list[len(list)-2] = b
+
+for i in range(0,5):
+    
+
+print(list)
